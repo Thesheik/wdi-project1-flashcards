@@ -1,0 +1,40 @@
+body{
+  background-image: url(/Users/Cheikhndiongue/wdi/projects/wdi-project1-flashcards/download.jpeg);
+
+}
+
+.front{
+  border: 2px;
+  background-color: beige;
+  width: 400px;
+  padding: 15px;
+  margin: 10px;
+  position: relative;
+}
+
+.back{
+  border: 2px;
+  background-color:rgb(37, 232, 203);
+  width: 400px;
+  padding: 15px;
+  margin:10px;
+  position: relative;
+}
+
+#coding{
+  border: 2px;
+  background-color: rgb(173, 195, 187); color: black;
+  width: 43%;
+  padding: 25px;
+  margin: 10px;
+  position: relative;
+  float: left;
+}
+
+header{
+  border: 2px;
+  background-color: rgba(140, 229, 237, 0.46);
+  text-align: center;
+  padding: 15px;
+  width: 40%;
+  margin: 0 auto;
